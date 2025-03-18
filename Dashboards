@@ -1,0 +1,32 @@
+# 📊 PwC Switzerland Power BI Job Simulation | Forage  
+
+This repository contains my work from the **PwC Switzerland Power BI Virtual Experience** on Forage, where I built interactive dashboards to analyze customer churn and business insights. Using **Power BI**, I explored retention trends, payment methods, contract types, demographics, and service usage to identify key churn drivers. I applied **DAX calculations**, created **interactive filters**, and developed **data-driven visualizations** to support decision-making.  
+
+## 📌 Dashboards Overview  
+
+✅ **Customer Retention Dashboard** – Analyzed churn trends, customer tenure, and retention KPIs to provide actionable insights.  
+✅ **Churn Analysis Dashboard** – Examined the impact of payment methods, contract types, and billing preferences on customer churn.  
+✅ **Service Usage & Demographics Dashboard** – Explored customer demographics and service subscriptions to identify churn patterns.  
+
+## 📊 Dashboards  
+
+### **1️⃣ Call Centre Analysis Dashboard**  
+![Customer Retention Dashboard](./images/customer_retention_dashboard.png)  
+
+### **2️⃣ Customer Retention Dashboard**  
+![Churn Analysis Dashboard](./images/churn_analysis_dashboard.png)  
+
+### **3️⃣ Service Usage & Demographics Dashboard**  
+![Service Usage & Demographics Dashboard](./images/service_usage_dashboard.png)  
+
+## 🔥 Key Skills Gained  
+
+- Power BI dashboard creation & data visualization  
+- DAX calculations for insightful analytics  
+- Interactive filters & slicers for better data exploration  
+- Business analytics & customer retention insights  
+- Concise communication of data-driven findings  
+
+
+
+### 🔗 **Explore the dashboards in this repository!** 🚀  
