@@ -5,7 +5,7 @@ This repository showcases my work from the **PwC Switzerland Power BI Virtual Ex
 ## 🚀 Project Overview
 As part of the simulation, I worked with customer churn data and created three dashboards focusing on critical business areas
 
-✅ **Customer Retention Dashboard** analyzed churn trends, customer tenure, and retention KPIs to provide actionable insights. ✅ **Churn Analysis Dashboard** examined the impact of payment methods, contract types, and billing preferences on customer churn. ✅ **Service Usage & Demographics Dashboard** explored customer demographics and service subscriptions to identify churn patterns.
+✅ **Call Centre Analysis Dashboard** analyzed churn trends, customer tenure, and retention KPIs to provide actionable insights. ✅ **Customer Retention Dashboard** examined the impact of payment methods, contract types, and billing preferences on customer churn. ✅ **Service Usage & Demographics Dashboard** explored customer demographics and service subscriptions to identify churn patterns.
 
 ## 🔍 Key Skills Gained
 ✅ **Power BI Data Visualization** – Created interactive dashboards with meaningful insights.  
