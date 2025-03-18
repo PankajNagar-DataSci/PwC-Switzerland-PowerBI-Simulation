@@ -3,11 +3,11 @@
 This repository showcases my work from the **PwC Switzerland Power BI Virtual Experience Program** on Forage, where I developed interactive **Power BI dashboards** to analyze customer churn and key business insights.
 
 ## 🚀 Project Overview
-As part of the simulation, I worked with customer churn data and created three dashboards focusing on critical business areas:
+As part of the simulation, I worked with customer churn data and created three dashboards focusing on critical business areas
 
-✅ **Customer Retention Dashboard** – Analyzed churn trends, customer tenure, and retention KPIs to provide actionable insights.
-✅ **Churn Analysis Dashboard** – Explored how payment methods, contract types, and billing preferences impact churn.
-✅ **Service Usage & Demographics Dashboard** – Examined customer demographics and service subscriptions to identify churn patterns.
+✅ Customer Retention Dashboard – Analyzed churn trends, customer tenure, and retention KPIs to provide actionable insights.
+✅ Churn Analysis Dashboard – Examined the impact of payment methods, contract types, and billing preferences on customer churn.
+✅ Service Usage & Demographics Dashboard – Explored customer demographics and service subscriptions to identify churn patterns.
 
 ## 🔍 Key Skills Gained
 ✅ **Power BI Data Visualization** – Created interactive dashboards with meaningful insights.  
